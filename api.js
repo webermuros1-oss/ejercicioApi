@@ -28,4 +28,6 @@ async function fetchFastFoodJson() {
     }
 }
 
+
+
 export default API_URL;
